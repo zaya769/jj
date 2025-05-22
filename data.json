@@ -1,0 +1,31 @@
+{
+    "intro": {
+        "image": "uplouds\/profile.jpg",
+        "name": "Ариунзаяа",
+        "desc": "ИЗ их сургуулийн 3р дамжааны оюутан"
+    },
+    "skills": [
+        {
+            "skill": "PHP",
+            "level": "Advanced"
+        },
+        {
+            "skill": "JavaScript",
+            "level": "Intermediate"
+        }
+    ],
+    "achievements": [
+        "Шилдэг оюутан 2024",
+        "Программчлалын тэмцээний 1-р байр",
+        "2023 Шилдэг оюутан"
+    ],
+    "projects": [
+        {
+            "name": "Веб апп",
+            "file": "uplouds\/biydaalt"
+        }
+    ],
+    "contact": {
+        "email": "zzayanaa171@gmail.com"
+    }
+}
